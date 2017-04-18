@@ -1,0 +1,10 @@
+description: TablistNames
+main: me.ThePerkyTurkey.TablistNames
+version: 1.0
+author: ThePerkyTurkey
+name: TablistNames
+
+commands:
+    updatelist:
+        usage: /updatelist
+        description: Debug command for TabListNames

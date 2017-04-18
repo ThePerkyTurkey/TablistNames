@@ -1,0 +1,9 @@
+#Configuration
+
+header: '&b&lWelcome to Pentopia!'
+footer: '&b&lEnjoy Your Stay'
+
+Owner:
+    prefix: '&c&lOwner &r'
+Builder:
+    prefix: '&b&lBuilder &r'
